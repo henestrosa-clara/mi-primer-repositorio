@@ -1,6 +1,7 @@
 # Mi primer repositorio
 
 Nombre: Clara Henestrosa
+
 Carrera: Ciencias del Comportamiento
 
 Este repositorio fue creado para aprender
