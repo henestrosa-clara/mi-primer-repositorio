@@ -1,4 +1,4 @@
-# mi-primer-repositorio
+# Mi primer repositorio
 
 Nombre: Clara Henestrosa
 Carrera: Ciencias del Comportamiento
